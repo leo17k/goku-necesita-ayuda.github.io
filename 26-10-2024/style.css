@@ -1,0 +1,52 @@
+body{
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+ background: white;
+}
+
+#divone{
+    display: flex;
+   
+}
+
+.mp3{
+    width: 50%;
+}
+
+.pp{ 
+    padding:20px;
+    height: 500px;
+    width: 350px;
+    box-shadow: 0 20px 10px rgba(0, 0, 0, 0.226);
+}
+
+.pd{
+    color: white;
+    background-color: black;
+    padding:20px;
+    height: 500px;
+    width: 350px;
+    box-shadow: 0 20px 10px rgba(255, 254, 254, 0.582);
+}
+
+#Cambiar{
+    margin-top: 12px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+    height: 40px;
+}
+
+#Goku{
+    margin-top: 30%;
+     margin-right: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    
+}
+#Gokuu{
+height: 350px;
+width: 350px;
+}
